@@ -74,7 +74,7 @@ Section: Tweaks
 Maintainer: Hoàng Lợi
 
 Package: com.loihg.vinapgame
-Name: Ví Xả Game
+Name: Ví Nạp Game
 Version: 0.0.1
 Architecture: iphoneos-arm
 Filename: ./debs/vinapgame.deb
