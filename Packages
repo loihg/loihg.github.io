@@ -1,0 +1,89 @@
+Package: com.loihg.icleanerpro
+Name: iCleaner Pro
+Version: 7.6.2
+Architecture: iphoneos-arm
+Filename: ./debs/icleanerpro.deb
+SHA1:db86d13721db6342238d0e45f61ed7ac9b12bf0b
+SHA256:91cfa09bfa6e81e073391f4c15d21eaa338638a1c1cf62d9497fda35b5fcefdc
+Size:5133554
+MD5sum:1f267c895ad19b6ce5ec6f70e06cb671
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.loihg.filza
+Name: Filza File Manager
+Version: 3.6.4
+Architecture: iphoneos-arm
+Filename: ./debs/filza.deb
+SHA1:069acd4f705e15fe25eb3efef3fdad4e6e4279d4
+SHA256:108a4e5646ab3a586904c7bfd6c60af55dca2e27253cb123287ea97eac0f9776
+Size:12394416
+MD5sum:8d9d7cb9a456f30bc4db1333cb87990a
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: Hoàng Lợi
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 27512
+dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Maintainer: Hoàng Lợi
+
+Package: com.loihg.hpfaketweak
+Name: hpfaketweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/hpfaketweak.deb
+SHA1:639f351846f9a6b7e462fbbc172bb02124bfb534
+SHA256:bbfdb6ef82175d86182bbc673a8216965a638b1ee21ca35e0e8a27e5701320bd
+Size:85822
+MD5sum:201ef7111c40e7ce937c700cadce4244
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Description: Ví Nạp Game Của Hoàng Lợi
+Author: Hoàng Lợi
+Section: Tweaks
+Maintainer: Hoàng Lợi
+
+Package: com.loihg.vixagame
+Name: Ví Xả Game
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixagame.deb
+SHA1:db03d0cbdae2dc7004914a4156ca0f75366b5c5e
+SHA256:0ad40464c3b86b5e4e6453e3cc4c736adc19c6bc55109d1dce2a76d2021e1bab
+Size:72286
+MD5sum:e531ee9a5a477918e9468b742bda856e
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Description: Ví Nạp Game Của Hoàng Lợi
+Author: Hoàng Lợi
+Section: Tweaks
+Maintainer: Hoàng Lợi
+
+Package: com.loihg.vinapgame
+Name: Ví Xả Game
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vinapgame.deb
+SHA1:5a570d1b1549f6bcd381d9459b7e73d18df0285a
+SHA256:38583a7c58001de5e236a4ecdaa2f72959581eae08b4433e2ce185e5104bed08
+Size:82644
+MD5sum:2da434b45ac7d8633c9eeff7bf678a7b
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Description: Ví Nạp Game Của Hoàng Lợi
+Author: Hoàng Lợi
+Section: Tweaks
+Maintainer: Hoàng Lợi
